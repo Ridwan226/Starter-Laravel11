@@ -15,7 +15,7 @@
   <link rel="shortcut icon" type="image/x-icon" href="{{ asset('/assets/admin/images/brand/favicon.ico') }}" />
 
   <!-- TITLE -->
-  <title>Ridwan Admin
+  <title>Ridwan Admin Coba
   </title>
 
   <!-- BOOTSTRAP CSS -->
